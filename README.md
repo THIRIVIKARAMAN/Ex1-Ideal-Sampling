@@ -185,15 +185,15 @@ plt.show()
 
 ## OUTPUT WAVEFORM:
 #### IDEAL SAMPLING:
-<img width="919" height="736" alt="image" src="https://github.com/user-attachments/assets/7f65b268-d6ae-40c1-8e21-f0e35f3bb3d1" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/703f68b7-79c5-4c40-a1d2-393e6f3a14bc" />
 
 
 #### NATURAL SAMPLING:
-<img width="915" height="826" alt="image" src="https://github.com/user-attachments/assets/017eae60-acec-466d-b1ac-4fb9bc346f2c" />
+<img width="1000" height="900" alt="image" src="https://github.com/user-attachments/assets/4205f581-392c-442a-9c79-3a36aadd3afc" />
 
 
 #### FLAT-TOP SAMPLING:
-<img width="911" height="808" alt="image" src="https://github.com/user-attachments/assets/0acc790d-c914-4827-898c-5c33d8d1e1f9" />
+<img width="1400" height="1000" alt="image" src="https://github.com/user-attachments/assets/031c535e-0f7b-4d11-a14d-f9cfae5e8960" />
 
 
 ## RESULT:
